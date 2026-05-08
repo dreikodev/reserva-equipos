@@ -1,0 +1,25 @@
+body{
+    background: beige;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+#form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: black;
+    flex-direction: column;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 10px;
+    margin-right: 20px;
+    padding: 20px;
+}
