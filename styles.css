@@ -10,7 +10,7 @@ body{
     font-family: Arial, sans-serif;
 }
 
-#form-container{
+form{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,4 +22,11 @@ body{
     gap: 10px;
     margin-right: 20px;
     padding: 20px;
+}
+
+.fila{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
 }
